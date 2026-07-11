@@ -1,5 +1,4 @@
-# My_world 2019
-First-year project.
+# World 2019
 
 An isometric world designer written in CSFML (low level graphical library)
 
@@ -21,8 +20,4 @@ Map Brush Tool and Texure menu:
 Map edit tools : Raise, Lower, Level
 ![Map Edit](github_img/map_edit.png)
 
-Team:
-  - Aurélien Joncour
-  - Simon RACAUD
- 
  {16 February - 15 March 2020}
