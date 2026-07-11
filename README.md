@@ -1,6 +1,6 @@
 # World 2019
 
-An isometric world designer written in CSFML (low level graphical library)
+An isometric world editor written in CSFML.
 
 Usage:
 ![Usage](github_img/usage.png)
